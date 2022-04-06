@@ -3,7 +3,7 @@ import "./style.css";
 
     const Header = () => {
       return (
-        <div className="section" id="home">
+
           <div className="container">
             <div className="header-wrapper">
 
@@ -21,16 +21,16 @@ import "./style.css";
                   </h1>
                 </div>
                 <a
-                href={`mailto:${
+                href={`mailto:
                   // inserting email or contact 
-                  }`}
+                  `}
                   className="primary-btn"
                 >
                 </a>
             </div>
           </div>
     
-      ),
+      )
     }
     
     export default Header
