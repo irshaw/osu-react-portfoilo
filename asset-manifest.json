@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/osu-react-portfoilo/static/css/main.f0eb0edc.css",
+    "main.js": "/osu-react-portfoilo/static/js/main.9393ab61.js",
+    "static/js/787.a2cb61a6.chunk.js": "/osu-react-portfoilo/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/osu-react-portfoilo/index.html",
+    "main.f0eb0edc.css.map": "/osu-react-portfoilo/static/css/main.f0eb0edc.css.map",
+    "main.9393ab61.js.map": "/osu-react-portfoilo/static/js/main.9393ab61.js.map",
+    "787.a2cb61a6.chunk.js.map": "/osu-react-portfoilo/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0eb0edc.css",
+    "static/js/main.9393ab61.js"
+  ]
+}
